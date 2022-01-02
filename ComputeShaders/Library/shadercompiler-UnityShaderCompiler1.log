@@ -1,0 +1,48 @@
+Base path: '/Applications/Unity/Hub/Editor/2020.1.4f1/Unity.app/Contents', plugins path '/Applications/Unity/Hub/Editor/2020.1.4f1/Unity.app/Contents/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=14 insize=361 outsize=517 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 14 at FirstCompute.compute(36): redefinition of 'SolidGreen'
+  api=14 insize=966 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=14 insize=967 outsize=522 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 14 at FirstCompute.compute(55): undeclared identifier 'int32'
+  api=14 insize=1363 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 14 at FirstCompute.compute(55): undeclared identifier 'int32'
+  api=14 insize=1331 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 14 at FirstCompute.compute(55): undeclared identifier 'int32'
+  api=14 insize=1331 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 14 at FirstCompute.compute(77): 'inSquare': no matching 0 parameter function
+  error: 2 plat 14 at FirstCompute.compute(77): syntax error: unexpected token '.'
+  error: 2 plat 14 at FirstCompute.compute(77): syntax error: unexpected token ';'
+  api=14 insize=1741 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 14 at FirstCompute.compute(77): 'inSquare': no matching 0 parameter function
+  error: 2 plat 14 at FirstCompute.compute(77): syntax error: unexpected token '.'
+  error: 2 plat 14 at FirstCompute.compute(77): syntax error: unexpected token ';'
+  api=14 insize=1741 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 14 at FirstCompute.compute(77): 'inSquare': no matching 0 parameter function
+  error: 2 plat 14 at FirstCompute.compute(77): syntax error: unexpected token '.'
+  error: 2 plat 14 at FirstCompute.compute(77): syntax error: unexpected token ';'
+  api=14 insize=1743 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 14 at FirstCompute.compute(77): 'inSquare': no matching 0 parameter function
+  error: 2 plat 14 at FirstCompute.compute(77): syntax error: unexpected token '.'
+  error: 2 plat 14 at FirstCompute.compute(77): syntax error: unexpected token ';'
+  api=14 insize=1743 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 14 at FirstCompute.compute(77): 'inSquare': no matching 0 parameter function
+  error: 2 plat 14 at FirstCompute.compute(77): syntax error: unexpected token '.'
+  error: 2 plat 14 at FirstCompute.compute(77): syntax error: unexpected token ';'
+  api=14 insize=1751 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 14 at FirstCompute.compute(77): 'inSquare': no matching 0 parameter function
+  error: 2 plat 14 at FirstCompute.compute(77): syntax error: unexpected token '.'
+  error: 2 plat 14 at FirstCompute.compute(77): syntax error: unexpected token ';'
+  api=14 insize=1785 outsize=0 ok=0
